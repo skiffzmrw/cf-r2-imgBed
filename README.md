@@ -23,20 +23,13 @@
 1. fork项目到自己的github
 2. 创建Page项目
 3. 输入编译参数
-
     1. 框架预设：无
     2. 构建命令：`npm run build`
     3. 输出目录：`dist`
 4. 完成创建
 5. 设置环境变量
-
-    1. `AUTH_TOKEN`：授权码
-    2. `COPY_URL`：复制的路径，如无，则输入`page域名/rest`
+    1. `AUTH_TOKEN`：这是你的授权码，类似于密码，随便写即可。
+    2. `COPY_URL`：上传完之后图片的连接；可以填入`page域名/rest`，如使用自定义域则填'你的域名/rest'
 6. 绑定R2
-
     1. 变量名为：`R2`
 7. 重新部署
-
----
-
-项目fork自[roimdev/roim-picx](https://github.com/roimdev/roim-picx)
