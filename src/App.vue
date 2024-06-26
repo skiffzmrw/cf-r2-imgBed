@@ -58,7 +58,7 @@ import zhCn from "element-plus/es/locale/lang/zh-cn"
 
 const repoLink = 'https://imggs.endl.site/'
 const repoName = '其他图床'
-const appName = '图床管理工具'
+const appName = 'imgBed'
 
 document.title = appName
 
